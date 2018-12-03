@@ -11,5 +11,6 @@
 - Technologies in general
 - Programming languages (golang, python, javascript ...)
 - `AI`, `Machine Learning` and their `applications`...
+- English, Japanese
 - Others
 ```
