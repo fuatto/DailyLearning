@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to my Daily-Learning Page
 
-You can use the [editor on GitHub](https://github.com/fuatto/DailyLearning/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- You will come across a lot of [#TILs](https://www.google.com.vn/search?q=til+acronym&oq=til+ac&aqs=chrome.0.0j69i57j0l4.2585j0j1&sourceid=chrome&ie=UTF-8) that are piled up daily.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Beginning of Day
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ - Monday 3rd Dec 2018
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### These are fields that I am interested in and sometimes randomly pick up on internet (continuously updated)
+- Technologies in general
+- Programming languages (golang, python, javascript ...)
+- `AI`, `Machine Learning` and their `applications`...
+- Others
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fuatto/DailyLearning/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
